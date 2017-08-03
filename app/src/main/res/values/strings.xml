@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR helper</string>
+    <string name="Scanning">Сканировать QR-код</string>
+    <string name="Сreate">Создать QR-код</string>
+    <string name="History">История</string>
+    <string name="LIST">Список ваших контактов:</string>
+    <string name="QR">QR</string>
+</resources>
